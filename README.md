@@ -1,14 +1,16 @@
 # ankit_prasad_resume_mobile_application
 Compatible with Android and tablets.  
 
-Working on IOS
+Working on IOS is under process.
 
-## Bugs in apk:
+## Version 0.1
 
-### Inside Experience and Project navigation bar's expansion panels
+### Bugs in apk:
 
-    Basically the bug is auto-height expand of tabs when clicked for the first time.
+#### Inside Experience and Project navigation bar's expansion panels
+
+    Basically the bug is the auto-height expansion of tabs when clicked for the first time.
     This occurs due to auto compatibility of code. 
     As this app can be viewed on any screen size.
     
-# Whole app is made in python
+## Whole app is made in python language
